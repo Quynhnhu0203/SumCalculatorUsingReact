@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SumCalculatorUsingReact/static/css/main.cb54768f.css",
+    "main.js": "/SumCalculatorUsingReact/static/js/main.24e39bd5.js",
+    "static/js/453.117b0875.chunk.js": "/SumCalculatorUsingReact/static/js/453.117b0875.chunk.js",
+    "index.html": "/SumCalculatorUsingReact/index.html",
+    "main.cb54768f.css.map": "/SumCalculatorUsingReact/static/css/main.cb54768f.css.map",
+    "main.24e39bd5.js.map": "/SumCalculatorUsingReact/static/js/main.24e39bd5.js.map",
+    "453.117b0875.chunk.js.map": "/SumCalculatorUsingReact/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb54768f.css",
+    "static/js/main.24e39bd5.js"
+  ]
+}
